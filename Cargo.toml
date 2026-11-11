@@ -1,6 +1,8 @@
 [package]
 name = "estivation"
+description = "local ai assistant"
 version = "0.0.0"
 edition = "2024"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
