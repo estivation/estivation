@@ -1,0 +1,14 @@
+[project]
+name = "estivation"
+version = "0.0.0"
+description = "reserve project"
+readme = "README.md"
+authors = [
+    { name = "Julian Schumacher", email = "professional@juliandevelops.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[build-system]
+requires = ["uv_build>=0.12.21,<0.13.0"]
+build-backend = "uv_build"
